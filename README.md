@@ -6,7 +6,7 @@ This script hardens SSH by generating a random port, configuring the SSH daemon,
 
 **Author:** jessthnthree  
 **Organization:** Unity Front  
-**Contact:** [unityfront.org](https://unityfront.org) | [@unityfront](https://twitter.com/unityfront) on Twitter
+**Contact:** [unityfront.org](https://unityfront.org) | [@unityfront](https://twitter.com/unityfrontcomms) on Twitter
 
 ## Features
 
